@@ -56,12 +56,12 @@ and "admin."
 - Implement a "Forgot Password" feature that allows users to reset their
 passwords through a secure email-based process.
 5. Security Measures:
-- Use appropriate libraries to secure against other common attacks.
+- Used appropriate libraries to secure against other common attacks.
 6. Logging:
 - Implement a basic logging system to record user activities and
 security-related events.
 7. Testing:
-- Write test cases to ensure that the authentication, authorization, and 
+- Built Test cases to ensure that the authentication, authorization, and 
 security features are working as expected.
 
 
@@ -104,5 +104,15 @@ The following API endpoints are available:
 
 
 ## Pictures
+
+![Screenshot 2024-02-15 095107](https://github.com/swarupe7/secureblink/assets/85427735/c58d352e-4057-4f89-a0f0-09fa8227f1c9)
+
+![Screenshot 2024-02-15 095145](https://github.com/swarupe7/secureblink/assets/85427735/aa0ed2fd-625e-45ee-890c-be999380faab)
+
+![Screenshot 2024-02-15 095128](https://github.com/swarupe7/secureblink/assets/85427735/d7e0e2ba-bf02-4cdb-97b1-62000e5d60bf)
+
+![Screenshot 2024-02-15 095159](https://github.com/swarupe7/secureblink/assets/85427735/38b1f01f-7a1f-4522-90eb-faff187461f3)
+
+
 
 
